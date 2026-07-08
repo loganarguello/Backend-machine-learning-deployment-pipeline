@@ -1,0 +1,16 @@
+name: backend_machine_learning_deployment_pipeline
+
+conda_env: pipeline_env.yaml
+
+entry_points:
+  main:
+    command: "python3 src/main.py"
+
+  importing_and_formatting:
+    command: "python3 src/import_format.py"
+
+  cleaning_and_filtering:
+    command: "python3 src/clean_data.py"
+
+  train_model:
+    command: "python3 src/train_model.py"
