@@ -1,8 +1,0 @@
-2026-07-07 19:58:53,079 INFO Starting cleaning and filtering script
-2026-07-07 19:58:53,188 INFO Formatted data imported successfully. Initial shape: (111088, 12)
-2026-07-07 19:58:53,198 INFO Filtered to DFW departures. Rows before: 111088, rows after: 25686
-2026-07-07 19:58:53,223 INFO Duplicate rows removed: 0
-2026-07-07 19:58:53,227 INFO Rows with missing values removed: 394
-2026-07-07 19:58:53,335 INFO cleaned_data.csv exported successfully. Final shape: (25292, 12)
-2026-07-07 19:58:53,335 INFO Final airport validation passed: only DFW departures remain
-2026-07-07 19:58:53,335 INFO Cleaning and filtering script completed successfully

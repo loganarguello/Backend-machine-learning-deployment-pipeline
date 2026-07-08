@@ -1,5 +1,0 @@
-2026-07-07 19:58:51,712 INFO Starting import and formatting script
-2026-07-07 19:58:51,848 INFO Raw CSV imported successfully
-2026-07-07 19:58:51,853 INFO Columns renamed to match model requirements
-2026-07-07 19:58:52,278 INFO Formatted data exported successfully
-2026-07-07 19:58:52,278 INFO Import and formatting script completed successfully
